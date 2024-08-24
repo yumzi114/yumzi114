@@ -1,5 +1,6 @@
 ## Hi there 👋
-![GitHub Contribution Snake](https://github.com/yumzi114/yumzi114/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Contribution Snake](https://github.com/yumzi114/yumzi114/blob/output/github-snake.svg)
 <!--
 **yumzi114/yumzi114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
